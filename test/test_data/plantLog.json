@@ -1,0 +1,8 @@
+{
+  "notes": "This is the notes",
+  "photos": [
+    "https://placekitten.com/640/480",
+    "https://placekitten.com/400/300"
+  ],
+  "mainPhotoIndex": 1
+}

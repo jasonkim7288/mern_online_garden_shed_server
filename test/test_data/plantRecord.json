@@ -1,0 +1,16 @@
+[
+  {
+    "commonName": "Edible banana",
+    "scientificName": "Musa acuminata",
+    "familyCommonName": "Banana family",
+    "description": "This is the first plant record",
+    "recordPhoto": "https://bs.floristic.org/image/o/ce1c2346d03820c8545c9e68ee7a39139a75e83c"
+  },
+  {
+    "commonName": "Orange hawkweed",
+    "scientificName": "Pilosella aurantiaca",
+    "familyCommonName": "Aster family",
+    "description": "This is the second plant record",
+    "recordPhoto": "https://bs.floristic.org/image/o/ce1c2346d03820c8545c9e68ee7a39139a75e83c"
+  }
+]
